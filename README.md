@@ -184,18 +184,25 @@ Employees who left the organization had noticeably lower average income compared
 ## Files Included
 
 ```text
-Employee-Attrition-Analysis/
+Employee-Attrition-Intelligence-Dashboard/
+
 │
-├── Employee_Attrition_Dashboard.pbix
-├── Employee_Attrition_Report.pdf
-├── README.md
+├── data/
+│   └── HR-Employee-Data.csv
+│
+├── dashboard/
+│   ├── Employee_Attrition_Dashboard.pbix
+│   └── Employee_Attrition_Report.pdf
+│
 ├── images/
 │   ├── executive_overview.png
 │   ├── attrition_drivers.png
 │   ├── risk_segmentation.png
 │   └── insights_recommendations.png
 │
-└── dataset/
+├── README.md          ← you are here
+│
+└── LICENSE
 ```
 
 ---
